@@ -2,15 +2,18 @@
 
 X_Steem Calculator is a desktop offline application which you can use to make arithmetic calculations such as additions, subtractions, divisions and multiplications. Following our tradition, the X_Steem Calculator has been designed to be pretty and colorful.
 
+
 ## Install
+
 Requirements
 Windows	OS 7, 8, 10
 
-Java Runtime Environment:	http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-GEt source, Clone the git Repository: https://github.com/neduzze5/X_Steem-Calculator
-Download the jar file:
+- Java Runtime Environment:	http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+- GEt source, Clone the git Repository: https://github.com/neduzze5/X_Steem-Calculator
+- Download the jar file: https://github.com/neduzze5/X_Steem-Calculator/blob/master/dist/X_Steem_Calculator.jar
 
-Simply run the jar file and begin typing and saving in your notes.
+Simply run the jar file and begin making your calculations
+
 
 ### How to use the application
 
